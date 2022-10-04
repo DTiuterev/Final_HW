@@ -1,0 +1,15 @@
+C:\Users\100nout\OneDrive\Документы\GeekBrains\Final_HW\bin\Debug\net6.0\Final_HW.exe
+C:\Users\100nout\OneDrive\Документы\GeekBrains\Final_HW\bin\Debug\net6.0\Final_HW.deps.json
+C:\Users\100nout\OneDrive\Документы\GeekBrains\Final_HW\bin\Debug\net6.0\Final_HW.runtimeconfig.json
+C:\Users\100nout\OneDrive\Документы\GeekBrains\Final_HW\bin\Debug\net6.0\Final_HW.dll
+C:\Users\100nout\OneDrive\Документы\GeekBrains\Final_HW\bin\Debug\net6.0\Final_HW.pdb
+C:\Users\100nout\OneDrive\Документы\GeekBrains\Final_HW\obj\Debug\net6.0\Final_HW.csproj.AssemblyReference.cache
+C:\Users\100nout\OneDrive\Документы\GeekBrains\Final_HW\obj\Debug\net6.0\Final_HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\100nout\OneDrive\Документы\GeekBrains\Final_HW\obj\Debug\net6.0\Final_HW.AssemblyInfoInputs.cache
+C:\Users\100nout\OneDrive\Документы\GeekBrains\Final_HW\obj\Debug\net6.0\Final_HW.AssemblyInfo.cs
+C:\Users\100nout\OneDrive\Документы\GeekBrains\Final_HW\obj\Debug\net6.0\Final_HW.csproj.CoreCompileInputs.cache
+C:\Users\100nout\OneDrive\Документы\GeekBrains\Final_HW\obj\Debug\net6.0\Final_HW.dll
+C:\Users\100nout\OneDrive\Документы\GeekBrains\Final_HW\obj\Debug\net6.0\refint\Final_HW.dll
+C:\Users\100nout\OneDrive\Документы\GeekBrains\Final_HW\obj\Debug\net6.0\Final_HW.pdb
+C:\Users\100nout\OneDrive\Документы\GeekBrains\Final_HW\obj\Debug\net6.0\Final_HW.genruntimeconfig.cache
+C:\Users\100nout\OneDrive\Документы\GeekBrains\Final_HW\obj\Debug\net6.0\ref\Final_HW.dll
