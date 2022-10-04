@@ -18,13 +18,13 @@ string[] array3sym = new string[array.Length];
 
 void Array3Symbols(string[] array, string[] array3sym)
 {
-    int count = 0;
+    int temp = 0;
     for (int i = 0; i < array.Length; i++)
     {
     if(array[i].Length <= 3)
         {
-        array3sym[count] = array[i];
-        count++;
+        array3sym[temp] = array[i];
+        temp++;
         }
     }
 }
