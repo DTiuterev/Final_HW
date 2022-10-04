@@ -15,7 +15,7 @@ string InputString(string input)
 
 string[] array = new string[] {s1, s2, s3, s4, s5};
 string[] array3sym = new string[array.Length];
-//int count = 0;
+
 void Array3Symbols(string[] array, string[] array3sym)
 {
     int count = 0;
