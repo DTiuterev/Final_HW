@@ -30,11 +30,11 @@ void Array3Symbols(string[] array, string[] array3sym)
 }
 
 Console.Write("Массив из строк, содержащих не более трех символов: ");
-void PrintArray3Symbols(string[] array)
+void PrintArray3Symbols(string[] array3sym)
 {
-    for (int i = 0; i < array.Length; i++)
+    for (int i = 0; i < array3sym.Length; i++)
     {
-        Console.Write($"{array[i]}  ");
+        Console.Write($"{array3sym[i]}  ");
     }
     Console.WriteLine();
 }
